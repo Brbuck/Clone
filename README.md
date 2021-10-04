@@ -4,12 +4,12 @@
 
 Clone (Sale Page - Submarino)  parcial para fins de estudo.
 
-## Techs
+## Tecnologias
 
 * React
 * Styled Components
 
-## Starting Dev Environment
+## Como executar o projeto
 
 * Run npm install or yarn install.
 * Run yarn start.
