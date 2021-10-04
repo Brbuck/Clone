@@ -1,6 +1,8 @@
-# Clone
+# Clone (Sale Page - Submarino)
 
-# Clone (Sale Page) - Submarino
+## Sobre o Projeto
+
+Clone (Sale Page - Submarino)  parcial para fins de estudo.
 
 ## Techs
 
@@ -9,5 +11,5 @@
 
 ## Starting Dev Environment
 
-    * Run npm install or yarn install.
-    * Run yarn start.
+* Run npm install or yarn install.
+* Run yarn start.
